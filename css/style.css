@@ -1,0 +1,76 @@
+*, html, body{
+    margin: 0;
+    padding:0;
+    box-sizing:border-box;
+    /* font-family: 'Nunito', sans-serif; */
+}
+.hero-bg{
+    background-image: url('../images/hero2-bck-digital.jpg');
+    object-fit: cover;
+    display: block;
+    vertical-align: middle;
+    background-size: cover;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+
+}
+
+.section-3{
+    background-color: #5ccdb2;
+}
+.all-image{
+	object-fit: cover;
+    display: block;
+    vertical-align: middle;
+    background-size: cover;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    
+}
+
+.round-bck{
+    background-color: white;
+    border-radius: 50%;
+    border: 1px solid grey;
+    padding: 5px;
+  }
+
+  .testimonial1{
+    background-color: #1d987b !important;
+  }
+
+  .testimonial2{
+    background-color: #f04f44 !important;
+  }
+
+  .teams{
+    background-color: #1d987b !important;
+  }
+
+  .teams-img{
+    margin: -100px auto 0;
+  }
+
+  .section-bg{
+    background-color: #d4d4d4 !important;
+  }
+
+  .about-sections{
+    background-color: #e0e0e0 !important;
+  }
+
+  .services1{
+    background-color: #f04f44 !important;
+  }
+  
+  .services2{
+    background-color: #1d987b !important;
+  }
+
+  .services3{
+    background-color: #6f635a !important;
+  }
+
+  .footer-section{
+    background-color: #01050e;
+  }
